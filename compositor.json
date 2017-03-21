@@ -103,7 +103,8 @@
           "user": "uxbcbilbao",
           "repo": "uxbcbilbao.github.io"
         }
-      ]
+      ],
+      "image": "https://pbs.twimg.com/profile_images/792369070/bilbaouxclub.gif"
     },
     {
       "component": "article",
@@ -122,6 +123,10 @@
         {
           "href": "https://github.com/uxbcbilbao",
           "text": "uxbcbilbao"
+        },
+        {
+          "href": "https://twitter.com/uxbcbilbao",
+          "text": "@uxbcbilbao"
         }
       ]
     }
