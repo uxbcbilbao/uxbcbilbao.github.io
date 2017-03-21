@@ -104,14 +104,15 @@
           "repo": "uxbcbilbao.github.io"
         }
       ],
-      "image": "https://pbs.twimg.com/profile_images/792369070/bilbaouxclub.gif"
+      "image": "https://pbs.twimg.com/profile_images/792369070/bilbaouxclub.gif",
+      "backgroundImage": ""
     },
     {
       "component": "article",
       "metadata": {
         "source": "github.readme"
       },
-      "html": "\n\n<p>This is our first play with compositor</p>\n"
+      "html": "\n\n"
     },
     {
       "component": "footer",
