@@ -112,7 +112,7 @@
       "metadata": {
         "source": "github.readme"
       },
-      "html": "\n\n"
+      "html": "\n\n<p>This is our first play with compositor</p>\n"
     },
     {
       "component": "footer",
